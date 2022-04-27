@@ -18,18 +18,18 @@ In the project directory, you can run:
 
 - Install dependencies on Root
 
-  ## yarn
+  * yarn
 
-  ## yarn run link-mobile
+  * yarn run link-mobile
 
-  ## yarn run link-web
+  * yarn run link-web
 
-  - For Android on (pocMobile))
+- For Android on (pocMobile))
 
-  ## yarn start
+  * yarn start
 
-  ## yarn run android
+  * yarn run android
 
-  - For Web on (pocweb)
+- For Web on (pocweb)
 
-  ## yarn start
+  * yarn start
