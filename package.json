@@ -1,0 +1,14 @@
+{
+  "name": "react-reactnative-monorepo-shared",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {"name": "Manoj Garg"},
+  "workspaces": {
+    "packages": [
+        "packages/*"
+    ],
+    "nohoist": ["**/react-native", "**/react-native/**"]
+},
+"private": true
+}
