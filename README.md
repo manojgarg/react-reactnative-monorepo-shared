@@ -5,7 +5,7 @@ making sure that we don't end up creating a monolith.
 
 Yarn & yarn workspaces are used, scripts needed are provided below.
 
-![monorepo-shared](monorepo.PNG)
+![monorepo-shared](monorepo.png)
 
 
 ## Available Scripts
